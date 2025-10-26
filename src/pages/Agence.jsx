@@ -9,20 +9,20 @@ const Agents = () => {
   const imageDivRef = useRef(null);
   const imageRef = useRef(null);
   const imageArray = [
-    "/public/profilePics/image1.png",
-    "/public/profilePics/image2.png",
-    "/public/profilePics/image3.png",
-    "/public/profilePics/image4.png",
-    "/public/profilePics/image5.png",
-    "/public/profilePics/image6.png",
-    "/public/profilePics/image7.png",
-    "/public/profilePics/image8.png",
-    "/public/profilePics/image9.png",
-    "/public/profilePics/image10.png",
-    "/public/profilePics/image11.png",
-    "/public/profilePics/image12.png",
-    "/public/profilePics/image13.png",
-    "/public/profilePics/image14.png",
+    "/profilePics/image1.png",
+    "/profilePics/image2.png",
+    "/profilePics/image3.png",
+    "/profilePics/image4.png",
+    "/profilePics/image5.png",
+    "/profilePics/image6.png",
+    "/profilePics/image7.png",
+    "/profilePics/image8.png",
+    "/profilePics/image9.png",
+    "/profilePics/image10.png",
+    "/profilePics/image11.png",
+    "/profilePics/image12.png",
+    "/profilePics/image13.png",
+    "/profilePics/image14.png",
   ];
 
   useGSAP(function () {
